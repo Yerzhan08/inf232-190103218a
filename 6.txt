@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$x = 28;  
+$y = 4;
+if($x / $y >=7) {
+echo "Yes";
+}
+
+?>  
+
+</body>
+</html>
