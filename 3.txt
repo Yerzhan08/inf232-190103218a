@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$t = date("A");
+
+if ($t > "14") {
+  echo "Salammaleikum!!!";
+}
+?>
+ 
+</body>
+</html>
