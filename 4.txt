@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$cars = "mersedes";
+
+switch ($cars) {
+  case "mersedes":
+     echo "This is Magzhan's car";
+    break;
+  case "BMW":
+    echo "This is Nurzhan's car";
+    break;
+  case "AUDI":
+    echo "This is Rayana's car";
+    break;
+    case "Rolls":
+     echo "This is your car";
+    break;
+  default:
+    echo "I don't know whose car it is";
+}
+?>
+ 
+</body>
+</html>
