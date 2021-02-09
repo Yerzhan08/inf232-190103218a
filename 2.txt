@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$x = 10;  
+$y = 6;
+$z = 4;
+
+echo ($x % $y)*$z;
+?>  
+
+</body>
+</html>
