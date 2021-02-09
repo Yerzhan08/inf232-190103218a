@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$animals = array("Dog", "Cat", "Cow"); 
+echo "I like " . $animals[0] . ", " . $animals[1] . " and " . $animals[2] . ".";
+?>
+
+</body>
+</html>
