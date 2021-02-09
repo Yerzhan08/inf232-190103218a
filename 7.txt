@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+define("ANEMMR6", "SALAMMALEIKUM!");
+echo ANEMMR6;
+?> 
+
+</body>
+</html>
