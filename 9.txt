@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo(min(2, 144, 53, 22, -7, -237) . "<br>");
+echo(max(4, 130, 85, 29, -4, -294));
+?>
+
+</body>
+</html>
